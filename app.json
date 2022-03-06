@@ -1,9 +1,9 @@
 
 {
-  "name": "♛ ╔»⟦★𝗤𝗡𝗥★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT ♛",
+  "name": "♛ SᑭᗩᗰᗰEᖇ ᗷOT ♛",
   "description": "A Powerful Telegram SpammerBot based on telethon.",
-  "website": "https://t.me/Qnr_Otus",
-  "repository": "https://github.com/QnrOtus/QnrOfficial",
+  "website": "https://t.me/FinalStrikeOp",
+  "repository": "",
   "logo": "https://telegra.ph/file/1ecd72d276cfffb731ee0.jpg",
   "keywords": [
     "spambot",
@@ -174,8 +174,7 @@
       "SUDO_USERS": {
         "description": "Fill all Sudo Users Id",
         "value": "2092103173",
-        "required": true
-      
+        "required": true    
   },
   "addons": [{
     "plan": "heroku-postgresql",
