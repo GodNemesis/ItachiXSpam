@@ -84,8 +84,8 @@ str30 = ""
 
 que = {}
 
-SMEX_USERS = [658876201]
-for x in SUDO:
+SMEX_USERS = [5046719296]
+for x in SUDO_USERS:
     SMEX_USERS.append(x)
     
 async def start_yukki():
